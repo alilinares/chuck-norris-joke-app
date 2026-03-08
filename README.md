@@ -6,6 +6,8 @@ A simple web application that generates random Chuck Norris jokes using public A
 
 This project demonstrates basic client side JavaScript concepts including asynchronous requests, API consumption, and DOM manipulation. Each time the user clicks the button, the application fetches a new Chuck Norris joke and a related GIF.
 
+Check out the demo: https://alilinares.github.io/chuck-norris-joke-app/ 🚀
+
 ## Features
 
 - Random Chuck Norris jokes fetched from a public API
@@ -35,32 +37,4 @@ https://docs.klipy.com
 3. A second request retrieves a Chuck Norris GIF from the Klipy API.
 4. The joke text and GIF are inserted into the page dynamically.
 
-## Installation
 
-Clone the repository
-
-```bash
-git clone https://github.com/yourusername/chuck-norris-joke-app.git
-```
-
-Open the project directory
-
-```bash
-cd chuck-norris-joke-app
-```
-
-Open `index.html` in your browser.
-
-## File Structure
-
-```
-/project
- ├─ index.html
- ├─ styles.css
- ├─ main.js
- └─ README.md
-```
-
-## Author
-
-Ali Linares
